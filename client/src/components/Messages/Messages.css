@@ -1,0 +1,7 @@
+/* Filename Messages/Messages.css */
+
+.messages {
+    padding: 5% 0;
+    overflow: auto;
+    flex: auto;
+ }
